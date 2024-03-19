@@ -1,0 +1,18 @@
+.paragroph{
+    background-color: black;
+    color: aqua;
+}
+#título{
+    background-color: aqua;
+    color: black;
+}
+/*
+CORES
+*/
+.color-name{
+    color: chartreuse;
+}
+
+.hex{
+    color: #55a398;
+}
