@@ -10,3 +10,24 @@ Background color
 
 Cor de fundo da tela. 
 */
+
+.b{
+    background-color: red;
+}
+
+.bg-opacity{
+    background-color: green;
+    opacity: 0.8;
+}
+
+.rgba-opacity{
+    background-color: rgba(90, 120, 20, 0.2);
+    color: #000;
+} 
+
+/*
+como centralizar imagem - CSS 
+background-position: center;
+background-size: cover;
+São comandos que ajudam a centralizar o tamanho das imagens. 
+*/
